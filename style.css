@@ -342,7 +342,7 @@ hr {
 
 
 
-@media (max-width:700px) {
+@media (max-width:900px) {
     #contact {
         bottom: unset;
         width: 100%;
@@ -423,7 +423,7 @@ hr {
 }
 .pro1 img{
     width:90%;
-    height: 180%;
+    height: 150%;
    
 }
 .pro2 img {
@@ -438,5 +438,10 @@ hr {
 .pro3 img{
     width: 90%;
     height: 80%;
+}
+    
+#contact p{
+    font-size: 9px;
+    font-weight: bold;
 }
 }
