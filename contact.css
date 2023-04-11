@@ -46,3 +46,7 @@ button{
     background-color: rgb(83, 48, 2);
     color: #fff;
 }
+legend{
+  font-size: 20px;
+  font-weight: bold;
+}
