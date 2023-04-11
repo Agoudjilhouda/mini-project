@@ -396,7 +396,7 @@
 }
 .pro1 img{
     width:90%;
-    height: 180%;
+    height: 150%;
    
 }
 .pro2 img {
@@ -411,5 +411,9 @@
 .pro3 img{
     width: 90%;
     height: 80%;
+}
+ #contact p{
+    font-size: 9px;
+    font-weight: bold;
 }
 }
