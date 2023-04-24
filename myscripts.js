@@ -1,17 +1,7 @@
 
-function changeImage(){
-    let displaypic = document.getElementById("bag")
-    if(displaypic.src.match("img/Group 4.png")){
-        displaypic.src = "img/icons8-bag-50.png"
-    }
-    else {
-        displaypic.src = "img/Group 4.png"
-        
-    }
-}
 
 // Get the button:
-let mybutton = document.getElementById("myBtn");
+let mybutton = document.getElementById("backtop");
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
